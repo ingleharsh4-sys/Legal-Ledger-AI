@@ -1,0 +1,7 @@
+{
+  "name": "Legal Ledger AI",
+  "description": "Comprehensive Legal Summarizer with support for Image, PDF, and Word docs. Features a visual Risk Scorecard, Action Planner, and a multilingual AI Legal Assistant chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Multilingual Document Analysis", "Intelligent Risk Scoring", "Interactive Legal Chatbot", "PDF & Word Processing"],
+  "majorCapabilities_v2": []
+}

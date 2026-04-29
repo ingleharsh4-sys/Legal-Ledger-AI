@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;700&family=JetBrains+Mono&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-brand-bg: #0a0a0c;
+  --color-brand-elevated: #0d0d0f;
+  --color-brand-surface: #0f0f12;
+  --color-brand-deep: #070708;
+  --color-brand-card: #141417;
+  --color-brand-border: #1e293b; /* slate-800 approx */
+}
