@@ -1,0 +1,1 @@
+ A language model to act as an Automated Legal/Contract Summarizer. The model can process an image/pdf/word_file of a legal document, identify key sections related to risks, financial obligations, and termination clauses, and then summarize these sections in simple language as per required by the user
