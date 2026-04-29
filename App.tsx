@@ -181,7 +181,7 @@ Termination: Landlord can terminate immediately if any relative of the tenant vi
 
     try {
       let contentPart: any;
-      const ai = new GoogleGenAI({import.meta.env.VITE_GEMINI_API_KEY});
+      const ai = new GoogleGenAI(import.meta.env.VITE_GEMINI_API_KEY);
 
       if (file.type.startsWith('image/') || file.type === 'application/pdf') {
         const base64Data = await fileToBase64(file);
