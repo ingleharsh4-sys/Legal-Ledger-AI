@@ -26,7 +26,7 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { GoogleGenAI, Type } from '@google/genai';
-import { cn, fileToBase64 } from '@/src/lib/utils';
+import { cn, fileToBase64 } from './utils.ts';
 import mammoth from 'mammoth';
 
 // Types for the AI output
